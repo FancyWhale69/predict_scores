@@ -22,7 +22,7 @@ Make sure to download everything you need from the installation section.
 Download the notebook then run all the cells.  
 
 # Results Summery  
+Analysis shows that students in private schools located in suburban areas following the expermintal teaching method score the highest in post-test, which could indecate that the environment has a great affect on students performance. 
 
- 
 # Acknowledgment 
 I would like to thank [Kwadwo Ofosu](https://www.kaggle.com/kwadwoofosu/predict-test-scores-of-students) for uploading the data to kaggle from IBM SPSS v23 package.
